@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Міфічні істоти Стародавньої Греції</string>
+    <string name="bottomOnFragmentAbout">Перейти до довідника</string>
+    <string name="textOnFrahmentAbout">\tОпис додатку: \nУ довіднику наведені Міфічні істоти Стародавньої Греції, їх опис та зображення. \n\tРозробник: \nВиниченко Данііл \n\tДата останнього оновлення: \n28.11.2022</string>
+    <string name="mainFrameAbout">Про довідник</string>
+    <string name="mainFrameCatalog">До довідника</string>
+    <string name="exitApp">Вихід з застосунка</string>
+    <string name="MythycalName">MythycalName</string>
+    <string name="MythycalHistory">MythycalHistory</string>
+    <string name="catalogId1">Кентаври</string>
+    <string name="catalogId2">Цербер</string>
+    <string name="catalogId3">Харибда</string>
+    <string name="catalogId4">Химера</string>
+    <string name="catalogId5">Циклопи</string>
+    <string name="catalogId6">Фурії</string>
+    <string name="catalogId7">Грифони</string>
+    <string name="catalogId8">Гарпії</string>
+    <string name="catalogId9">Гідра</string>
+    <string name="catalogId10">Медуза</string>
+    <string name="catalogId11">Мінотавр</string>
+    <string name="catalogId12">Пегас</string>
+    <string name="catalogId13">Сатири</string>
+    <string name="catalogId14">Сцилла</string>
+    <string name="catalogId15">Сирени</string>
+    <string name="catalogId16">Сфінкс</string>
+    <string name="catalogId17">Тифон</string>
+</resources>
